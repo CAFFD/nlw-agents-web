@@ -70,15 +70,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> Adicione aqui imagens ou gifs demonstrando o funcionamento do sistema.
->
-> Exemplo:
-> ![Demo do Projeto](./screenshot.png)
-
----
-
 ## 🧑‍💻 Autor
 
 **Gabriel Dadário**  
