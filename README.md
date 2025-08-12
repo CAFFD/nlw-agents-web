@@ -14,14 +14,6 @@ Este é um projeto Full-Stack desenvolvido durante a trilha NLW da Rocketseat. E
 - [Axios](https://axios-http.com/)
 - [React Router DOM](https://reactrouter.com/en/main)
 
-### ⚙️ Back-end:
-- [Fastify](https://www.fastify.io/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Zod](https://zod.dev/)
-- [Drizzle ORM](https://orm.drizzle.team/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Docker](https://www.docker.com/)
-
 ---
 
 ## 🗂️ Estrutura do Projeto
@@ -35,17 +27,6 @@ nlw-agents/
 ---
 
 ## 🚀 Como Rodar o Projeto
-
-### 🗃️ Backend
-
-```bash
-cd backend
-npm install
-docker run --name nlw-pg -e POSTGRES_PASSWORD=123456 -p 5432:5432 -d postgres
-cp .env.example .env
-npm run drizzle:push
-npm run dev
-```
 
 ### 💻 Frontend
 
@@ -75,8 +56,8 @@ npm run dev
 **Gabriel Dadário**  
 Desenvolvedor Full-Stack em formação
 
-[🔗 LinkedIn](https://www.linkedin.com/in/seuusuario)  
-[🐙 GitHub](https://github.com/seuusuario)
+[🔗 LinkedIn](https://www.linkedin.com/in/gabriel-guarsoni-dadário-76a496264/)  
+[🐙 GitHub](https://github.com/CAFFD)
 
 ---
 
@@ -93,4 +74,4 @@ Desenvolvedor Full-Stack em formação
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT – sinta-se livre para usar, modificar e contribuir!
+Sinta-se livre para usar, modificar e contribuir!
